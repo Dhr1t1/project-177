@@ -1,0 +1,29 @@
+body{
+    background-color: lightgreen;
+}
+
+#score{
+    font-size: 35px;
+    margin-left: 150px;
+}
+
+#timer{
+    font-size: 35px;
+    float: right;
+    margin-right: 150px;
+}
+
+#drawing{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+canvas{
+    border: 5px solid coral;
+    border-radius: 20px;
+    margin-top: 80px;
+}
+
+#guessed_sketch, #confidence{
+    font-size:20px;
+}
